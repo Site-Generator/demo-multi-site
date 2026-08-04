@@ -117,14 +117,8 @@
     }
   ],
   "images": [
-    [
-      "board.jpg"
-    ],
-    [
-      "tournament.jpg"
-    ],
-    [
-      "team.jpg"
-    ]
+    "board.jpg",
+    "tournament.jpg",
+    "team.jpg"
   ]
 }
